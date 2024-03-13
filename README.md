@@ -1,13 +1,15 @@
 # AzureDio IA
 ## Trabalhando com Machine Learning na Prática no Azure ML
 
-### PASSO 1 – Configurando Modelos e Conjunto de Dados
+### Configurando Modelos e Conjunto de Dados
+
 
 Acessar a opcao do menu a esquerda:
 
 - Criacao
 - ML Automatizado
   
+
 Sera exibido ao lado direito os devidos preenchimentos para a criacao do ML:
 
 - Método de Treinamento / Configuracoes Basicas;
@@ -54,7 +56,8 @@ Em “Tipo de dados” inserir as informacoes conforme o exemplo:
 
 Apos a insercao dos dados clicar em AVANCAR.
 
-- Em Fonte de Dados – clicar na opcao DE ARQUIVOS DA WEB e avançar;
+- Em Fonte de Dados – acessar a opcao "DE ARQUIVOS DA WEB";
+  
 
 ![image](https://github.com/denisedsa/AzureDio/assets/90991366/98734750-6106-443e-a59f-568452e1cec6)
 
@@ -87,7 +90,7 @@ Apos a insercao dos dados clicar em AVANCAR.
 
 -	Na opcao EXAMINAR clicar em avançar para que sejam validados todos os processos de criacao;
 
-   Tipo de Tarefas e Dados – Seleciona o ML criado para a inserção dos demais dados;
+- Tipo de Tarefas e Dados – Seleciona o ML criado para a inserção dos demais dados;
 
 
 ![image](https://github.com/denisedsa/AzureDio/assets/90991366/7f673b12-525e-4aaa-8023-ae8e197beaec)
@@ -95,13 +98,16 @@ Apos a insercao dos dados clicar em AVANCAR.
 
 ![image](https://github.com/denisedsa/AzureDio/assets/90991366/6fd171c8-10cc-4e0b-8886-71313c51e4f7)
 
+
 - Em configuracao acional seleciona apenas estas opcoes;
 
 ![image](https://github.com/denisedsa/AzureDio/assets/90991366/eb5b098b-95a8-4f6f-be0f-70cbbdfaa99c)
 
+
 - Na opcao Limites deve-se inserir as seguintes informacoes;
 
 ![image](https://github.com/denisedsa/AzureDio/assets/90991366/2244c9b8-ca16-4c1a-9673-156da1d54d2e)
+
 
 - Em Validar e Testar preencher apenas estas informacoes:
 
@@ -123,30 +129,33 @@ Apos a insercao dos dados clicar em AVANCAR.
   
   :ballot_box_with_check: Numero de instancias: 1
 
+
 ![image](https://github.com/denisedsa/AzureDio/assets/90991366/693a27c5-c14d-41c9-bbf1-c4e027b0278e)
+
 
 - Por último só precisa selecionar a opção “Enviar trabalho de treinamento” para que todos as informações sejam executadas e validadas.
 
 ![image](https://github.com/denisedsa/AzureDio/assets/90991366/ab9fda17-09eb-48a8-88f1-35e4487dccc0)
 
 
-
-[!TIP] É sempre bom acompanhar o Deployment para saber se todos os dados inseridos foram processados corretamente.
-
-
-### LINK IMPORTANTE!
-
-Acesso ML Azure: https://ml.azure.com/?azure-portal=true
-
-DIO – Cursos Tecnologia
-https://web.dio.me/track/microsoft-azure-ai-fundamentals
+:pushpin: É sempre bom acompanhar o Deployment para saber se todos os dados inseridos foram processados corretamente.
 
 
-### DADOS DE ORIGEM
 
-Documentação ML Azure: 
-https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#create-an-azure-machine-learning-workspace
 
-Explore o Azure AI Services
-https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html
+:pushpin: REFERENCIAS DE PROCESSOS & DADOS DE ORIGEM
+
+
+[Acesso ML Azure:](https://ml.azure.com/?azure-portal=true)
+
+
+[DIO – Cursos Tecnologia](https://web.dio.me/track/microsoft-azure-ai-fundamentals)
+
+
+
+
+[Documentação ML Azure:](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html#create-an-azure-machine-learning-workspace)
+
+
+[Explore o Azure AI Services](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/02-content-safety.html)
  
